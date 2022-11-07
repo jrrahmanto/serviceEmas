@@ -1,0 +1,85 @@
+2022-09-22 12:13:52.409 +07:00 [INF] Starting Services
+2022-09-22 12:13:58.190 +07:00 [INF] Success send email "2022-09-22T12:13:58.1835626+07:00"
+2022-09-22 12:13:59.779 +07:00 [INF] Failed send email The process cannot access the file 'D:\Source Code Service\DailyStatementEmas\DailyStatementEmas\bin\Debug\netcoreapp3.1\report\Daily Statement Emas Off PluangMas 21 September 2022.xlsx.xlsx' because it is being used by another process. "2022-09-22T12:13:59.7795133+07:00"
+2022-09-22 12:14:32.419 +07:00 [INF] Failed send email The process cannot access the file 'D:\Source Code Service\DailyStatementEmas\DailyStatementEmas\bin\Debug\netcoreapp3.1\report\Daily Statement Emas Off PluangMas 21 September 2022.xlsx.xlsx' because it is being used by another process. "2022-09-22T12:14:32.4192440+07:00"
+2022-09-22 13:03:13.880 +07:00 [INF] Starting Services
+2022-09-22 13:03:24.447 +07:00 [INF] Success send email "2022-09-22T13:03:24.4433955+07:00"
+2022-09-22 13:03:27.780 +07:00 [INF] Failed send email Failed to send mail. "2022-09-22T13:03:27.7801969+07:00"
+2022-09-22 13:03:30.983 +07:00 [INF] Failed send email Failed to send mail. "2022-09-22T13:03:30.9834440+07:00"
+2022-09-22 13:04:04.731 +07:00 [INF] Starting Services
+2022-09-22 13:04:14.668 +07:00 [INF] Success send email "2022-09-22T13:04:14.6644200+07:00"
+2022-09-22 13:04:57.647 +07:00 [INF] Starting Services
+2022-09-22 13:05:06.200 +07:00 [INF] Success send email "2022-09-22T13:05:06.1936907+07:00"
+2022-09-22 13:06:39.456 +07:00 [INF] Starting Services
+2022-09-22 13:07:22.236 +07:00 [INF] Success send email "2022-09-22T13:07:22.2261904+07:00"
+2022-09-22 13:07:24.608 +07:00 [INF] Success send email "2022-09-22T13:07:24.6082284+07:00"
+2022-09-22 13:07:28.723 +07:00 [INF] Success send email "2022-09-22T13:07:28.7234122+07:00"
+2022-09-22 13:07:39.572 +07:00 [INF] Worker running at: "2022-09-22T13:07:39.5722280+07:00"
+2022-09-22 13:10:33.521 +07:00 [INF] Starting Services
+2022-09-22 13:10:37.800 +07:00 [INF] Success send email "2022-09-22T13:10:37.7960472+07:00"
+2022-09-22 13:10:41.306 +07:00 [INF] Success send email "2022-09-22T13:10:41.3059462+07:00"
+2022-09-22 13:18:05.501 +07:00 [INF] Starting Services
+2022-09-23 13:40:18.526 +07:00 [INF] Starting Services
+2022-09-23 13:40:57.950 +07:00 [INF] Starting Services
+2022-09-23 13:42:04.860 +07:00 [INF] Success send email "2022-09-23T13:42:04.8521324+07:00"
+2022-09-23 14:30:01.192 +07:00 [INF] Starting Services
+2022-09-23 14:30:35.414 +07:00 [INF] Success send email "2022-09-23T14:30:35.4083045+07:00"
+2022-09-23 14:39:30.650 +07:00 [INF] Success send email "2022-09-23T14:39:30.6498598+07:00"
+2022-09-23 14:39:30.650 +07:00 [INF] Worker running at: "2022-09-23T14:39:30.6502798+07:00"
+2022-09-23 14:59:23.236 +07:00 [INF] Starting Services
+2022-09-23 14:59:27.781 +07:00 [INF] Success send email "2022-09-23T14:59:27.7767273+07:00"
+2022-09-23 14:59:28.343 +07:00 [INF] Success send email "2022-09-23T14:59:28.3436192+07:00"
+2022-09-23 14:59:33.655 +07:00 [INF] Worker running at: "2022-09-23T14:59:33.6513434+07:00"
+2022-09-23 15:04:00.395 +07:00 [INF] Starting Services
+2022-09-23 15:04:05.095 +07:00 [INF] Worker running at: "2022-09-23T15:04:05.0886370+07:00"
+2022-09-23 15:06:18.257 +07:00 [INF] Starting Services
+2022-09-23 15:06:22.974 +07:00 [INF] Success send email "2022-09-23T15:06:22.9696535+07:00"
+2022-09-23 15:06:23.556 +07:00 [INF] Success send email "2022-09-23T15:06:23.5564933+07:00"
+2022-09-23 15:06:25.737 +07:00 [INF] Worker running at: "2022-09-23T15:06:25.7375906+07:00"
+2022-09-28 09:47:15.892 +07:00 [INF] Starting Services
+2022-09-28 09:47:45.413 +07:00 [INF] Success send email "2022-09-28T09:47:45.4062236+07:00"
+2022-09-28 09:47:48.207 +07:00 [INF] Success send email "2022-09-28T09:47:48.2071216+07:00"
+2022-09-28 09:47:48.207 +07:00 [INF] Worker running at: "2022-09-28T09:47:48.2076750+07:00"
+2022-09-28 09:51:28.825 +07:00 [INF] Starting Services
+2022-09-28 09:51:43.004 +07:00 [INF] Success send email "2022-09-28T09:51:42.9737985+07:00"
+2022-09-28 09:52:18.445 +07:00 [INF] Starting Services
+2022-09-28 09:52:24.249 +07:00 [INF] Success send email "2022-09-28T09:52:24.2408182+07:00"
+2022-09-28 09:52:26.441 +07:00 [INF] Success send email "2022-09-28T09:52:26.4409679+07:00"
+2022-09-28 09:52:26.441 +07:00 [INF] Worker running at: "2022-09-28T09:52:26.4416785+07:00"
+2022-09-28 09:53:23.590 +07:00 [INF] Starting Services
+2022-10-28 09:15:50.402 +07:00 [INF] Starting Services
+2022-10-28 09:15:51.981 +07:00 [INF] Worker running at: "2022-10-28T09:15:51.9759645+07:00"
+2022-10-28 09:16:14.637 +07:00 [INF] Starting Services
+2022-10-31 10:46:13.632 +07:00 [INF] Starting Services
+2022-10-31 10:46:15.549 +07:00 [INF] Worker running at: "2022-10-31T10:46:15.5408520+07:00"
+2022-10-31 10:46:53.871 +07:00 [INF] Starting Services
+2022-10-31 10:46:54.506 +07:00 [INF] Worker running at: "2022-10-31T10:46:54.4998585+07:00"
+2022-10-31 10:50:02.735 +07:00 [INF] Starting Services
+2022-10-31 10:50:19.806 +07:00 [INF] Success send email "2022-10-31T10:50:19.7981038+07:00"
+2022-10-31 10:52:43.540 +07:00 [INF] Starting Services
+2022-10-31 10:52:48.444 +07:00 [INF] Success send email "2022-10-31T10:52:48.4404675+07:00"
+2022-10-31 10:52:57.594 +07:00 [INF] Starting Services
+2022-10-31 10:53:02.056 +07:00 [INF] Success send email "2022-10-31T10:53:02.0521331+07:00"
+2022-10-31 10:53:21.346 +07:00 [INF] Success send email "2022-10-31T10:53:21.3468737+07:00"
+2022-10-31 10:53:21.933 +07:00 [INF] Worker running at: "2022-10-31T10:53:21.9311744+07:00"
+2022-10-31 10:54:05.191 +07:00 [INF] Starting Services
+2022-10-31 10:54:09.999 +07:00 [INF] Success send email "2022-10-31T10:54:09.9959267+07:00"
+2022-10-31 10:54:14.598 +07:00 [INF] Success send email "2022-10-31T10:54:14.5979947+07:00"
+2022-10-31 10:54:21.462 +07:00 [INF] Starting Services
+2022-10-31 10:54:26.025 +07:00 [INF] Success send email "2022-10-31T10:54:26.0198883+07:00"
+2022-10-31 10:54:40.032 +07:00 [INF] Starting Services
+2022-10-31 10:54:55.900 +07:00 [INF] Failed send email Failure sending mail. "2022-10-31T10:54:55.8906988+07:00"
+2022-10-31 10:55:20.703 +07:00 [INF] Starting Services
+2022-10-31 10:55:32.819 +07:00 [INF] Failed send email Failure sending mail. "2022-10-31T10:55:32.8118118+07:00"
+2022-10-31 10:56:33.337 +07:00 [INF] Starting Services
+2022-10-31 10:57:00.693 +07:00 [INF] Starting Services
+2022-10-31 10:57:35.748 +07:00 [INF] Starting Services
+2022-10-31 11:14:52.910 +07:00 [INF] Starting Services
+2022-10-31 11:16:39.185 +07:00 [INF] Starting Services
+2022-10-31 11:19:43.728 +07:00 [INF] Starting Services
+2022-11-01 14:07:16.439 +07:00 [INF] Starting Services
+2022-11-01 14:08:27.021 +07:00 [INF] Starting Services
+2022-11-01 14:09:05.223 +07:00 [INF] Starting Services
+2022-11-01 14:11:22.307 +07:00 [INF] Worker running at: "2022-11-01T14:11:22.3002137+07:00"
+2022-11-04 10:56:16.229 +07:00 [INF] Starting Services
+2022-11-04 11:00:41.922 +07:00 [INF] Starting Services
