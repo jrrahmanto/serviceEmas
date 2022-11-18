@@ -15,7 +15,8 @@ namespace DailyStatementEmas
 
 
                 System.Net.HttpWebRequest Req = (System.Net.HttpWebRequest)System.Net.WebRequest.Create(url);
-                Req.Timeout = 36000000;
+                Req.AllowWriteStreamBuffering = false;
+                Req.Timeout = 3600000;
                 Req.Credentials = new NetworkCredential("Administrator", "Jakarta01");
                 Req.Method = "GET";
 

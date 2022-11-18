@@ -27,7 +27,7 @@ namespace DailyStatementEmas
             while (!stoppingToken.IsCancellationRequested)
             {
                 var jam = DateTime.Now.Hour;
-                if (jam == 6)
+                if (jam == 9)
                 {
                     try
                     {
